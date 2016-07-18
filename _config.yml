@@ -1,7 +1,7 @@
 name: quadernodicampo
 favicon: null
-layout_spectrum: 0.6769228978082538
-typography_spectrum: 0.7035685835871845
+layout_spectrum: 0
+typography_spectrum: 0.30128
 title: Quadernodicampo
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.5083457548171282
-  lightness: 0.40687584807164967
-  saturation: 0.10710880649276078
-  rhythmicContrast: 0.15091719408519566
+  brandStrength: 0.5
+  lightness: 0.4375
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
