@@ -1,29 +1,41 @@
-name: quadernodicampo
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.30128
 title: Quadernodicampo
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.4310777
+favicon: null
+name: quadernodicampo
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.5
+  saturation: 0.5
   brandColors:
     - '#000000'
     - '#e2e0e1'
     - '#a6a9ac'
     - '#666b71'
     - '#3b3b3b'
-  brandStrength: 0.5
   lightness: 0.4375
-  saturation: 0.5
   rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.30128
